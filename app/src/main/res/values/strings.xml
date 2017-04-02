@@ -1,0 +1,23 @@
+<resources>
+    <!-- App name -->
+    <string name="app_name">Geofencing </string>
+
+    <!-- Add geofences button -->
+    <string name="add_geofences">Add geofences</string>
+
+    <!-- Error log message -->
+    <string name="geofence_transition_invalid_type">invalid type</string>
+
+    <!-- getErrorString values -->
+    <string name="unknown_error">Unknown error</string>
+    <string name="too_many_intents">Too many PendingIntents right now</string>
+    <string name="too_many_geofences">There are too many geofences</string>
+    <string name="geofence_not_available">Geofence is not available</string>
+
+    <!-- Geofence added Toast -->
+    <string name="geofences_add">Geofences added</string>
+
+    <!-- Client not connected Toast -->
+    <string name="not_connected">Client is not connected</string>
+
+</resources>
